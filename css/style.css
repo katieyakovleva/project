@@ -1,0 +1,32 @@
+h1 {
+    color:red;
+}
+h2 {
+    color:aqua;
+}
+h3 {
+    color: #28983b;
+    background-color: antiquewhite;
+    text-align: justify;
+    font-size: small;
+}
+
+.class_1
+{
+    color: #28983b;
+    background-color: antiquewhite;
+    text-align: justify;
+    font-size: small;
+}
+
+<p class=".class_1">
+<h2 class=".class_1">
+
+#id_1
+{
+    color: #28983b;
+    background-color: antiquewhite;
+    text-align: justify;
+    font-size: small; 
+}
+<p id="id_1">
